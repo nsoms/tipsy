@@ -1,0 +1,26 @@
+{
+  "name": "tipsy-jmalonzo",
+  "version": "1.0.1",
+  "homepage": "http://onehackoranother.com/projects/jquery/tipsy/",
+  "authors": [
+    "Jason Frame <jason@onehackoranother.com>"
+  ],
+  "description": "Facebook-style tooltips plugin for jQuery",
+  "main": "src/javascripts/jquery.tipsy.js",
+  "keywords": [
+    "tipsy",
+    "tooltips",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.7.2"
+  }
+}

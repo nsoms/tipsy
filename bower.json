@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "1.7.2"
+    "jquery": "latest"
   }
 }

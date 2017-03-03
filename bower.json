@@ -1,12 +1,16 @@
 {
   "name": "tipsy-jmalonzo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "http://onehackoranother.com/projects/jquery/tipsy/",
   "authors": [
     "Jason Frame <jason@onehackoranother.com>"
   ],
   "description": "Facebook-style tooltips plugin for jQuery",
-  "main": "src/javascripts/jquery.tipsy.js",
+  "main": [
+    "src/javascripts/jquery.tipsy.js",
+    "src/stylesheets/tipsy.css",
+    "src/stylesheets/tipsy.scss"
+  ],
   "keywords": [
     "tipsy",
     "tooltips",
